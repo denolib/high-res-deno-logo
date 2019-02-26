@@ -8,4 +8,4 @@ Also comes with `svg` version (`deno_hr.svg`).
 
 Comparing to the original Deno logo by [@ry](https://github.com/ry):
 
-![Deno logo](https://avatars1.githubusercontent.com/u/42048915?s=200&v=4)
+<img src="https://deno.land/deno_logo.png" alt="logo" width="300"/>
