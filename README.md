@@ -2,7 +2,7 @@
 
 "Dino in the Rain" Logo:
 
-<img src="https://denolib.github.io/high-res-deno-logo/deno_hr_circle.png" alt="logo" width="300"/>
+<img src="https://denolib.github.io/high-res-deno-logo/deno_hr_circle_thin.png" alt="logo" width="300"/>
 
 High resolution logo (remastering of the old logo) (by [@kevinkassimo](https://github.com/kevinkassimo)):
 
