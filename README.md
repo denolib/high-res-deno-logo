@@ -2,7 +2,7 @@
 
 High resolution logo (by [@kevinkassimo](https://github.com/kevinkassimo)):
 
-![Deno logo high_res](https://denolib.github.io/high-res-deno-logo/deno_hr.png)
+<img src="https://denolib.github.io/high-res-deno-logo/deno_hr.png" alt="logo" width="300"/>
 
 Also comes with `svg` version (`deno_hr.svg`).
 
