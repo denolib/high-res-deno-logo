@@ -1,6 +1,6 @@
 # High Resolution Logo for Deno
 
-"Dino in the Rain" Logo:
+"Deno in the Rain" Logo:
 
 <img src="https://denolib.github.io/high-res-deno-logo/deno_hr_circle.png" alt="logo" width="300"/>
 
