@@ -1,0 +1,316 @@
+html    { overflow: -moz-scrollbars-vertical; overflow-y: scroll; }
+
+body {
+font-family: "PT Serif", georgia, palatino, serif;
+font-size:  100%;
+color:      #333;
+margin:     0;
+padding:    1em;
+background: #eee;
+}
+
+div#wrapper {
+width: 1000px;
+padding: 1em;
+background: #fff;
+margin: 0 auto;
+}
+
+div#page {
+padding-left: 58px;
+}
+
+p {
+
+}
+
+img {
+padding: 0em;
+margin: 0;
+border: none;
+}
+
+h1,h2,h3,h4 {
+font-family: "Open Sans",helvetica, arial, sans-serif;
+}
+
+h1 {
+color:     #d60027;
+font-size: 140%;
+}
+h2 {
+text-transform: uppercase;
+color:     #666;
+font-size: 130%;
+padding:   0.75em 0 0 0;
+margin:    0;
+}
+h3 {
+text-transform: uppercase;
+font-size:      90%;
+}
+
+h4 {
+text-transform: uppercase;
+font-size:      75%;
+padding:0;
+margin:0;
+}
+
+a {
+text-decoration: underline;
+color: #a8001f;
+}
+
+a:hover {
+background: #eee;
+}
+
+h2 a {
+text-decoration: none !important;
+}
+
+p {
+padding: 0 0 0.5em 0;
+margin:  0;
+}
+
+div#uploadform {
+width: 600px;
+padding: 1em;
+margin: 1em 0;
+border: 1px solid #ccc;
+}
+
+div#footer {
+font-family: "Open Sans",helvetica, arial, sans-serif;
+margin:      2em 0em;
+border-top:  1px solid #ccc;
+}
+
+.comment {
+color: #0094d7;
+}
+
+code, pre {
+font-family: inconsolata, consolas, courier, monospace;
+} 
+code {
+color:#f89e00;
+}
+pre {
+padding:     1em;
+background:  rgb(245,245,245);
+border:      1px solid #eee;
+border-radius: 5px;
+}
+
+.error {
+font-weight: bold;
+color: #cc0000;
+margin: 1em 0;
+}
+
+.swatch {
+border:  1px solid black;
+display: inline-block;
+}
+
+/* MASTHEAD */
+
+div#masthead {
+font-family: "Open Sans",helvetica, arial, sans-serif;
+position:       relative;
+background:     #fff;
+color:          #000;
+padding:        0;
+padding-left:   60px;
+margin-bottom:  10px;
+}
+
+div#masthead img {
+position: absolute;
+left:     0px;
+top:      -2px;
+}
+
+div#masthead a  {
+text-decoration: none;
+color:           #000;
+}
+div#masthead a:hover  {
+background: #fff;
+}
+div#masthead h1 {
+font-size:      140%;
+text-transform: uppercase;
+color:          #000;
+padding:        0 0 0px 0;
+margin:         0;
+}
+div#masthead span {
+font-style:  italic;
+font-size:   90%;
+}
+
+/* PAGE */
+
+
+/* MENU */
+
+div#menu {
+font-family: "Open Sans",helvetica, arial, sans-serif;
+text-transform: uppercase;
+padding:        5px 0 1em 59px;
+font-size:      85%;
+}
+div#menu span, a.item {
+padding:         0.40em 0.25em 0.15em 0.25em;
+text-decoration: none;
+color:           #000;
+}
+div#menu span {
+border-bottom: 2px solid #000;
+}
+div#menu a.item:hover {
+background: #000;
+color:      #fff;
+}
+
+div#report {
+position: relative;
+border: 1px solid #ccc;
+}
+
+div#report div.panel {
+position: relative;
+top: 0;
+left: 0;
+display: inline;
+border: 1px solid red;
+}
+
+table {
+font-family: "Open Sans",helvetica, arial, sans-serif;
+
+font-size: 90%;
+}
+
+td {
+/*border: 1px solid #ddd;*/
+padding: 0.5em;
+}
+
+td.narrow {
+width:200px;
+font-size: 90%;
+border-left: 1px solid #ccc;
+margin: 1em;
+padding: 1em;
+}
+
+td.small {
+font-size:80%;
+}
+
+td.narrow p {
+width:200px;
+}
+
+th {
+font-weight: bold;
+align: center;
+/*border: 1px solid #ddd;*/
+padding: 1em;
+font-size: 90%;
+}
+
+th.row {
+border-bottom: 1px solid #ccc;
+}
+th.col {
+border-right: 1px solid #ccc;
+}
+
+td.odd {
+background: #eee;
+}
+td.vodd {
+background: #ddd;
+}
+
+table.cluster tr td {
+text-align: center;
+}
+
+div.value {
+font-weight: normal;
+}
+
+div.rgb, div.hex {
+color: #666;
+}
+
+div.hex {
+font-style: italic;
+}
+
+td.coords {
+font-family: Inconsolata,mono;
+}
+
+td.formhead {
+text-transform: uppercase;
+font-family: "Open Sans",helvetica, arial, sans-serif;
+color:     #666;
+font-size: 90%;
+text-align: right;
+}
+.note {
+font-size: 90%;
+color:     #666;
+}
+.note img {
+padding-right: 0.5em;
+vertical-align: middle;
+}
+td .note {
+font-style: italic;
+}
+img.icon {
+padding-right: 0.5em;
+vertical-align: middle;
+}
+
+div.question {
+font-weight: bold;
+padding-top: 0.5em;
+}
+
+div.answer {
+border-bottom: 1px solid #ccc;
+padding-bottom: 0.5em;
+margin-bottom: 0.5em;
+}
+
+.small {
+font-size: 90%;
+}
+
+.notice {
+background: #eee;
+border: 1px solid #ccc;
+margin: 1em;
+padding: 1em;
+color: red;
+font-family: "Open Sans",helvetica, arial, sans-serif;
+font-size: 80%;
+}
+
+.config {
+font-size: 11px;
+}
+
+.api {
+font-size: 14px;
+}

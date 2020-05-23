@@ -1,0 +1,254 @@
+
+.white        {background-color: #fff; color : #000;}
+.vvvlightgrey {background-color: #f8f8f8; color : #000;}
+.vvlightgrey  {background-color: #eee; color : #000;}
+.vlightgrey   {background-color: #ccc; color : #000;}
+.lightgrey    {background-color: #bbb; color : #000;}
+.mediumgrey   {background-color: #999; color : #fff;}
+.darkgrey     {background-color: #666; color : #fff;}
+.vdarkgrey    {background-color: #333; color : #fff;}
+.vvdarkgrey   {background-color: #111; color : #fff;}
+.black        {background-color: #000; color : #fff; }
+
+
+
+.whitetext {color : #fff;}
+.vlightgreytext {color : #eee;}
+.lightgreytext {color : #ccc;}
+.greytext {color : #999;}
+.mediumgreytext {color : #999;}
+.darkgreytext {color : #666;}
+.vdarkgreytext {color : #333;}
+.blacktext {color : #000;}
+
+
+.vvlightredbw { background-color : #fee;color       : #000; }
+.vlightredbw { background-color : #fcc;	color       : #000; }
+.lightredbw  { background-color : #f99;	color       : #000; }
+.mediumredbw { background-color : #f66;	color       : #000; }
+.darkredbw   { background-color : #933;	color       : #fff; }
+.vdarkredbw  { background-color : #600;	color       : #fff; }
+
+.vvlightred { background-color : #fee;	color       : #600; }
+.vlightred { background-color : #fcc;	color       : #600; }
+.lightred  { background-color : #f99;	color       : #600; }
+.mediumred { background-color : #f66;	color       : #600; }
+.darkred   { background-color : #933;	color       : #fcc; }
+.vdarkred  { background-color : #600;	color       : #fcc; }
+
+.vvlightredtext {   color       : #fee; }
+.vlightredtext {   color       : #fcc; }
+.lightredtext  {   color       : #f99; }
+.mediumredtext {   color       : #f66; }
+.darkredtext   {   color       : #933; }
+.vdarkredtext  {   color       : #600; }
+
+
+.vvlightbluebw { background-color : #eef;	color       : #000; }
+.vlightbluebw { background-color : #ccf;color       : #000; }
+.lightbluebw  { background-color : #99f;color       : #000; }
+.mediumbluebw { background-color : #66f;color       : #fff; }
+.darkbluebw  { background-color : #339;	color       : #fff; }
+.vdarkbluebw  { background-color : #006;color       : #fff; }
+
+.vvlightblue { background-color : #eef;	color       : #636; }
+.vlightblue { background-color : #ccf;	color       : #636; }
+.lightblue  { background-color : #99f;	color       : #636; }
+.mediumblue { background-color : #66f; 	color       : #ccf; }
+.darkblue   { background-color : #339;	color       : #ccf; }
+.vdarkblue  { background-color : #006;	color       : #ccf; }
+
+.vvlightbluetext {  color       : #eef; }
+.vlightbluetext {  color       : #ccf; }
+.lightbluetext  {  color       : #99f; }
+.mediumbluetext {  color       : #66f; }
+.darkbluetext   {  color       : #339; }
+.vdarkbluetext  {  color       : #006; }
+
+
+.vvlightgreenbw { background-color : #efe;	color       : #000; }
+.vlightgreenbw { background-color : #cfc;color       : #000; }
+.lightgreenbw  { background-color : #9f9;color       : #000; }
+.mediumgreenbw { background-color : #6f6;color       : #000; }
+.darkgreenbw   { background-color : #393;color       : #fff; }
+.vdarkgreenbw  { background-color : #060;color       : #fff; }
+
+.vvlightgreen { background-color : #efe;	color       : #060; }
+.vlightgreen { background-color : #cfc;	color       : #060; }
+.lightgreen  { background-color : #9f9; color       : #060; }
+.mediumgreen { background-color : #6f6;	color       : #060; }
+.darkgreen   { background-color : #393;	color       : #cfc; }
+.vdarkgreen  { background-color : #060;	color       : #cfc; }
+
+.vvlightgreentext { color       : #efe; }
+.vlightgreentext { color       : #cfc; }
+.lightgreentext  { color       : #9f9; }
+.mediumgreentext { color       : #6f6; }
+.darkgreentext   { color       : #393; }
+.vdarkgreentext  { color       : #060; }
+
+
+.vvlightyellow {background-color : #ffe; color       : #000; }
+.vlightyellowbw {background-color : #ffc;color       : #000; }
+.lightyellowbw  {background-color : #ff9;color       : #000; }
+.mediumyellowbw {background-color : #ff6;color       : #000; }
+.darkyellowbw   {background-color : #993;color       : #fff; }
+.vdarkyellowbw  {background-color : #660;color       : #fff; }
+
+.vvlightyellow {background-color : #ffe; color       : #660; }
+.vlightyellow {background-color : #ffc; color       : #660; }
+.lightyellow  {background-color : #ff9;	color       : #660; }
+.mediumyellow {background-color : #ff6;	color       : #660; }
+.darkyellow   {background-color : #993;	color       : #ffc; }
+.vdarkyellow  {background-color : #660;	color       : #ffc; }
+
+.vlightyellowtext {color       : #ffe; }
+.vlightyellowtext {color       : #ffc; }
+.lightyellowtext  {color       : #ff9; }
+.mediumyellowtext {color       : #ff6; }
+.darkyellowtext   {color       : #993; }
+.vdarkyellowtext  {color       : #660; }
+
+.javapurple     {background-color : #7979a1; color       : #fff; }
+
+
+.vvlightpurple {background-color : #fef;	color       : #000; }
+.vlightpurplebw {background-color : #fcf;color       : #000; }
+.lightpurplebw  {background-color : #f9f;color       : #000; }
+.mediumpurplebw {background-color : #f6f;color       : #000; }
+.darkpurplebw   {background-color : #939;color       : #fff; }
+.vdarkpurplebw  {background-color : #606;color       : #fff; }
+
+.vvlightpurple {background-color : #fef;	color       : #606; }
+.vlightpurple {background-color : #fcf;	color       : #606; }
+.lightpurple  {background-color : #f9f;	color       : #606; }
+.mediumpurple {background-color : #f6f; color       : #606; }
+.darkpurple   {background-color : #939;	color       : #fcf; }
+.vdarkpurple  {background-color : #606; color       : #fcf; }
+
+.vvlightpurpletext {color       : #fef; }
+.vlightpurpletext {color       : #fcf; }
+.lightpurpletext  {color       : #f9f; }
+.mediumpurpletext {color       : #f6f; }
+.darkpurpletext   {color       : #939; }
+.vdarkpurpletext { color       : #606; }
+
+
+.vvlightcyanbw   {background-color : #eff; color       : #000; }
+.vlightcyanbw   {background-color : #cff;color       : #000; }
+.lightcyanbw    {background-color : #9ff;color       : #000; }
+.mediumcyanbw   {background-color : #6ff;color       : #000; }
+.darkcyanbw     {background-color : #399;color       : #fff; }
+.vdarkcyanbw    {background-color : #066;color       : #fff; }
+
+.vvlightcyan   {background-color : #eff; color       : #066; }
+.vlightcyan   {background-color : #cff; color       : #066; }
+.lightcyan    {background-color : #9ff;	color       : #066; }
+.mediumcyan   {background-color : #6ff;	color       : #066; }
+.darkcyan     {background-color : #399;	color       : #cff; }
+.vdarkcyan    {background-color : #066;	color       : #cff; }
+
+.vvlightcyantext   {color       : #eff; }
+.vlightcyantext   {color       : #cff; }
+.lightcyantext    {color       : #9ff; }
+.mediumcyantext   {color       : #6ff; }
+.darkcyantext     {color       : #399; }
+.vdarkcyantext    {color       : #066; }
+
+
+.vvlightorangebw {background-color: #fec      ; color: #000; }
+.vlightorangebw  {background-color: #fc9       ; color: #000; }
+.lightorangebw   {background-color: #fc6       ; color: #000; }
+.mediumorangebw  {background-color: #fc0       ; color: #000; }
+.darkorangebw    {background-color: #c90       ; color: #fff; }
+.vdarkorangebw   {background-color: #960       ; color: #fff; }
+
+.vvlightorange  {background-color: #fec      ; color: #960; }
+.vlightorange  {background-color: #fc9       ; color: #960; }
+.lightorange   {background-color: #fc6       ; color: #960; }
+.mediumorange  {background-color: #fc0       ; color: #960; }
+.darkorange    {background-color: #c90       ; color: #fc9; }
+.vdarkorange   {background-color: #960       ; color: #fe9; }
+
+.vlightorangetext   {color       : #fe9; }
+.vlightorangetext   {color       : #fc9; }
+.lightorangetext    {color       : #fc6; }
+.mediumorangetext   {color       : #fc0; }
+.darkorangetext     {color       : #c90; }
+.vdarkorangetext    {color       : #960; }
+
+
+.vvlightsepia   {background-color : #ffded7 ; color  : #000; }
+.vlightsepiabw  {background-color : #fcc8bb ; color  : #000; }
+.lightsepiabw   {background-color : #dfaca0 ; color  : #000; }
+.mediumsepiabw  {background-color : #c39286 ; color  : #000; }
+.darksepiabw    {background-color : #72473d ; color  : #fff; }
+.vdarksepiabw   {background-color : #542c24 ; color  : #fff; }
+.vvdarksepiabw  {background-color : #3f1a13 ; color  : #fff; }
+
+.vvlightsepia   {background-color : #ffded7 ; color  : #3f1a13; }
+.vlightsepia    {background-color : #fcc8bb ; color  : #3f1a13; }
+.lightsepia     {background-color : #dfaca0 ; color  : #542c24; }
+.mediumsepia    {background-color : #c39286 ; color  : #542c24; }
+.darksepia      {background-color : #72473d ; color  : #fcc8bb; }
+.vdarksepia     {background-color : #542c24 ; color  : #ebdfd7; }
+.vvdarksepia    {background-color : #3f1a13 ; color  : #ebdfd7; }
+
+.vlightsepiatext    {color : #fcc8bb ; }
+.vlightsepiatext    {color : #cfb9ab ; }
+.lightsepiatext     {color : #dfaca0 ; }
+.mediumsepiatext    {color : #c39286 ; }
+.darksepiatext      {color : #72473d ; }
+.vdarksepiatext     {color : #542c24 ; }
+.vvdarksepiatext    {color : #3f1a13 ; }
+
+
+.vvlightcanblue  { background-color : #e6f8ff; color : #000; }
+.vlightcanblue   { background-color : #d9f5ff; color : #000; }
+.lightcanblue    { background-color : #a6e6ff; color : #000; }
+.mediumcanblue   { background-color : #6acfff; color : #000; }
+.darkcanblue     { background-color : #2da9dc; color : #fff; }
+.vdarkcanblue    { background-color : #127aa5; color : #fff; }
+.vvdarkcanblue   { background-color : #044864; color : #fff; }
+
+.canyellow { background-color : #feed6a; color     : #000; }
+.cangreen  { background-color : #92fd69; color     : #000; }
+.canred    { background-color : #ff6a73; color     : #000; }
+
+.dqsback         { background-color : #F5ECE5; color     : #000; }
+.dqssubtletext   { color : #CCC4BE ; }
+
+.vvdarkdqsbrown  { background-color : #693503 ; color : #F1CA41; } 
+.vdarkdqsbrown   { background-color : #8B4A0A ; color : #F1CA41; } 
+.mediumdqsbrown  { background-color : #9B5A18 ; color : #E7A324; } 
+.lightdqsbrown   { background-color : #B26A2F ; color : #E7A324; } 
+.vlightdqsbrown  { background-color : #CD8813 ; color : #693503; } 
+.vvlightdqsbrown { background-color : #F1CA41 ; color : #693503; } 
+.vvdarkdqsbrowntext  { color : #693503 ; }
+.vdarkdqsbrowntext   { color : #8B4A0A ; }
+.mediumdqsbrowntext  { color : #9B5A18 ; }
+.lightdqsbrowntext   { color : #B26A2F ; }
+.vlightdqsbrowntext  { color : #CD8813 ; }
+.vvlightdqsbrowntext { color : #F1CA41 ; }
+
+
+.vdarkheader  { background-color : #1e2a63;     color       : #E2E5F1; }
+.darkheader   { background-color : #354073;     color       : #E2E5F1; }
+.mediumheader { background-color : #3648A7;     color       : #E2E5F1; }
+.lightheader { background-color : #e2e5f1;      color       : #3648a7; }
+
+.vvvlightprodblue { background-color : #d4e6ff;	color       : #004271; }
+.vvlightprodblue { background-color : #a6cbff;	color       : #004271; }
+.vlightprodblue  { background-color : #8fbdf9;	color       : #004271; }
+.lightprodblue   { background-color : #74a2dc;	color       : #003258; }
+.mediumprodblue  { background-color : #3a6ea5; 	color       : #a9cdff; }
+.darkprodblue    { background-color : #004271;	color       : #a6cbff; }
+.vdarkprodblue   { background-color : #003258;	color       : #a6cbff; }
+
+.vvlightprodbluetext { color : #a6cbff;	}
+.vlightprodbluetext  { color : #8fbdf9;	}
+.lightprodbluetext   { color : #74a2dc;	}
+.mediumprodbluetext  { color : #3a6ea5; }
+.darkprodbluetext    { color : #004271;	}
+.vdarkprodbluetext   { color : #003258;	}
+
