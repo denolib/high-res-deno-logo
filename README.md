@@ -1,5 +1,11 @@
 # High Resolution Logo for Deno
 
+"Dino in the Rain" Logo 3D:
+
+<img src="https://denolib.github.io/high-res-deno-logo/Blender/V_2-82a/Images/DenoLogo3D-cmp-025_1k.png.png" alt="Deno Logo 3D" width="300"/>
+
+Deno Logo in 3D generated with Blender version 2.82a (by [@MasterJames](https://github.com/MasterJames))
+
 "Dino in the Rain" Logo:
 
 <img src="https://denolib.github.io/high-res-deno-logo/deno_hr_circle.png" alt="logo" width="300"/>
